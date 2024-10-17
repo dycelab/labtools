@@ -10,7 +10,8 @@ This program will download images from M2M API from USGS. The code is setup to d
 Adopted and Modified - Y A Marambe
 
 Quality control GUI: DYCE Lab tool
-This program contains two sections to give the flexibility to modify this program for other projects' QC workflows.
+This program contains two sections to give the flexibility to modify this program for other projects' QC workflows.  
+
 Section 1: Create image views to display within the QC GUI widget. This specific example can take tree-labels included in point-shape files as time series information and join that information to the tree canopy shape layer. The code will drop additional images and adjust the view window based on the number of available images. Then, it will draw the canopy layers on NAIP high-resolution images as a time series in a single view.
 
 Section 2: This code generates a GUI widget with different functionalities for QC implementation. 
