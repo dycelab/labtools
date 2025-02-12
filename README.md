@@ -17,4 +17,8 @@ Section 1: Create image views to display within the QC GUI widget. This specific
 Section 2: This code generates a GUI widget with different functionalities for QC implementation. 
 Available functions: Next, back, QCflags(Approve, Drop, Redo), confidence level (High, low), Comment box  
 
+**VPD CWD TerraClimate download**
+This code will downlaod climate data from GEE for a given AOI
+
+
 *Author- Y A Marambe*
